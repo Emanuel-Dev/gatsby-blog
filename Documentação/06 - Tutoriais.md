@@ -1,22 +1,24 @@
 # Tutoriais
 
-### [useState](https://pt-br.reactjs.org/docs/hooks-state.html)
+### [props](https://www.gatsbyjs.com/tutorial/part-one/#-using-sub-components)
 
-### [props](https://www.gatsbyjs.com/tutorial/part-one/#what-are-props)
+### [Hook useState](https://pt-br.reactjs.org/docs/hooks-state.html)
 
-### [Page Components](https://www.gatsbyjs.com/tutorial/part-one/#-using-page-components)
-
-### [Layout Component](https://www.gatsbyjs.com/tutorial/part-three/#-create-your-first-layout-component)
+### [Criando uma Página](https://www.gatsbyjs.com/tutorial/part-one/#-using-page-components)
 
 ### [Gatsby Link](https://www.gatsbyjs.com/docs/gatsby-link/#add-custom-styles-for-the-currently-active-link)
+
+### [useStaticQuery](https://www.gatsbyjs.com/tutorial/part-four/#use-a-staticquery)
+
+### [Gatsby Image](https://www.gatsbyjs.com/plugins/gatsby-image/?=gatsby-image#how-to-use)
+
+---
 
 ### [Styled Components](https://styled-components.com/docs/basics#getting-started)
 
 ### [Styled Icons](https://styled-icons.js.org/?s=plane)
 
 ### [createGlobalStyle](https://www.gatsbyjs.com/docs/styled-components/#creating-global-styles)
-
-### [useStaticQuery](https://www.gatsbyjs.com/tutorial/part-four/#use-a-staticquery)
 
 ### [Source Plugins](https://www.gatsbyjs.com/tutorial/part-five/#source-plugins)
 
@@ -28,7 +30,6 @@
 
 ### [Criando Páginas a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-pages)
 
-### [Gatsby Image](https://www.gatsbyjs.com/docs/gatsby-image/#reach-skip-nav)
 
 ### [gatsby-plugin-scroll-reveal](https://www.gatsbyjs.com/plugins/gatsby-plugin-scroll-reveal/)
 

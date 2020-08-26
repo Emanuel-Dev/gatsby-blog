@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Gatsby Blog Tutorial`,
+    position: "Desenvolvedor Front-End",
+    description: `Um blog Gatsby construido seguindo o tutorial do curso \"Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS\"`,
+    author: `Emanuel Olivio dos Santos`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
