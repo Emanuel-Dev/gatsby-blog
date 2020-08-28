@@ -1,15 +1,24 @@
 import React from "react"
-import Profile from "../Profile"
+import PropTypes from "prop-types"
+import Sidebar from "../Sidebar"
+
+import * as S from "./styled"
+import GlobalStyles from "../../styles/global"
+import MenuBar from "../MenuBar"
 
 const Layout = ({ children }) => {
   return (
-    <>
-      <aside>
-        <Profile />
-      </aside>
-      <main>{children}</main>
-    </>
+    <S.LayoutWrapper>
+      <GlobalStyles />
+      <Sidebar />
+      <S.LayoutMain>{children}</S.LayoutMain>
+      <MenuBar />
+    </S.LayoutWrapper>
   )
+}
+
+Layout.propTypes = {
+  children: PropTypes.node.isRequired,
 }
 
 export default Layout

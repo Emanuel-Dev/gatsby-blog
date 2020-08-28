@@ -12,13 +12,13 @@
 
 ### [Gatsby Image](https://www.gatsbyjs.com/plugins/gatsby-image/?=gatsby-image#how-to-use)
 
----
-
 ### [Styled Components](https://styled-components.com/docs/basics#getting-started)
 
 ### [Styled Icons](https://styled-icons.js.org/?s=plane)
 
-### [createGlobalStyle](https://www.gatsbyjs.com/docs/styled-components/#creating-global-styles)
+### [PropTypes](https://pt-br.reactjs.org/docs/typechecking-with-proptypes.html)
+
+---
 
 ### [Source Plugins](https://www.gatsbyjs.com/tutorial/part-five/#source-plugins)
 
@@ -29,7 +29,6 @@
 ### [Gerar Slugs a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-slugs-for-pages)
 
 ### [Criando Páginas a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-pages)
-
 
 ### [gatsby-plugin-scroll-reveal](https://www.gatsbyjs.com/plugins/gatsby-plugin-scroll-reveal/)
 

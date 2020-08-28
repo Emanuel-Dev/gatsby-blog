@@ -14,6 +14,16 @@
 
 ### [Corrigindo o bug React-Hot-Loader](https://github.com/gatsbyjs/gatsby/issues/11934#issuecomment-646966955)
 
+### [Styled Components](https://www.gatsbyjs.com/plugins/gatsby-plugin-styled-components/?=styled-compo)
+
+### [gatsby-plugin-prefetch-google-fonts](https://www.gatsbyjs.com/plugins/gatsby-plugin-prefetch-google-fonts/?=)
+
+### [Global Styles](https://www.gatsbyjs.com/docs/styled-components/#creating-global-styles)
+
+### [CSS Reset](https://github.com/Emanuel-Dev/Curso-Desenvolvimento-Web/blob/master/03%20-%20CSS/28%20-%20reset.css)
+
+### [Variáveis CSS](https://github.com/Emanuel-Dev/Curso-Desenvolvimento-Web/blob/master/03%20-%20CSS/29%20-%20Variaveis%20CSS.md)
+
 ### [Componente Layout](https://www.gatsbyjs.com/tutorial/part-three/#-create-your-first-layout-component)
 
 ### [Adicionando uma Página 404](https://www.gatsbyjs.com/docs/add-404-page/)
@@ -24,17 +34,11 @@
 
 ### [Gatsby Image](https://www.gatsbyjs.com/plugins/gatsby-image/?=gatsby-image#install)
 
----
-
-### [Styled Components](https://www.gatsbyjs.com/docs/styled-components/)
-
 ### [Styled Icons](https://www.npmjs.com/package/styled-icons)
 
-### [createGlobalStyle + CSS Reset](https://github.com/Emanuel-Dev/Curso-Desenvolvimento-Web/blob/master/03%20-%20CSS/28%20-%20reset.css)
+### [PropTypes](https://www.npmjs.com/package/prop-types)
 
-### [Variáveis CSS](https://github.com/Emanuel-Dev/Curso-Desenvolvimento-Web/blob/master/03%20-%20CSS/34%20-%20Variaveis%20CSS.md)
-
-### [gatsby-plugin-prefetch-google-fonts](https://www.gatsbyjs.com/plugins/gatsby-plugin-prefetch-google-fonts/?=)
+---
 
 ### [gatsby-transformer-remark](https://www.gatsbyjs.com/docs/adding-markdown-pages/#install-transformer-plugin)
 
