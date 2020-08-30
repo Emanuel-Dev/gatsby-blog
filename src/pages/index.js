@@ -1,48 +1,59 @@
 import React from "react"
+import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/Layout"
 import SEO from "../components/seo"
 import PostItem from "../components/PostItem"
 
 const IndexPage = () => {
+  const { allMarkdownRemark } = useStaticQuery(graphql`
+    query MeusPosts {
+      allMarkdownRemark {
+        edges {
+          node {
+            frontmatter {
+              background
+              category
+              date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
+              description
+              title
+            }
+            timeToRead
+            id
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  const postList = allMarkdownRemark.edges
+
   return (
     <Layout>
       <SEO title="Home" />
-      <PostItem
-        slug="/about/"
-        background="red"
-        category="Misc"
-        date="30 de Julho de 2019"
-        timeToRead="5"
-        title="Diga não ao Medium: tenha sua própria plataforma"
-        description="Algumas razões para você ter sua própria plataforma ao invés de soluções como o Medium."
-      />
-      <PostItem
-        slug="/about/"
-        background="blue"
-        category="Misc"
-        date="30 de Julho de 2019"
-        timeToRead="5"
-        title="Diga não ao Medium: tenha sua própria plataforma"
-        description="Algumas razões para você ter sua própria plataforma ao invés de soluções como o Medium."
-      />
-      <PostItem
-        slug="/about/"
-        background="orange"
-        category="Misc"
-        date="30 de Julho de 2019"
-        timeToRead="5"
-        title="Diga não ao Medium: tenha sua própria plataforma"
-        description="Algumas razões para você ter sua própria plataforma ao invés de soluções como o Medium."
-      />
-      <PostItem
-        slug="/about/"
-        background="green"
-        category="Misc"
-        date="30 de Julho de 2019"
-        timeToRead="5"
-        title="Diga não ao Medium: tenha sua própria plataforma"
-        description="Algumas razões para você ter sua própria plataforma ao invés de soluções como o Medium."
-      />
+      {postList.map(
+        ({
+          node: {
+            frontmatter: { background, category, date, description, title },
+            timeToRead,
+            id,
+            fields: { slug },
+          },
+        }) => (
+          <PostItem
+            key={id}
+            slug={slug}
+            background={background}
+            category={category}
+            date={date}
+            timeToRead={timeToRead}
+            title={title}
+            description={description}
+          />
+        )
+      )}
     </Layout>
   )
 }

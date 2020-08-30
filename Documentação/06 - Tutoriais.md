@@ -18,17 +18,13 @@
 
 ### [PropTypes](https://pt-br.reactjs.org/docs/typechecking-with-proptypes.html)
 
----
+### [Instruções de consulta ao GraphQL](https://www.gatsbyjs.com/docs/graphql-reference/)
 
 ### [Source Plugins](https://www.gatsbyjs.com/tutorial/part-five/#source-plugins)
 
 ### [Transformer Plugins](https://www.gatsbyjs.com/tutorial/part-six/#transformer-plugins)
 
-### [Opções de consulta GraphQL](https://www.gatsbyjs.com/docs/graphql-reference/)
-
-### [Gerar Slugs a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-slugs-for-pages)
-
-### [Criando Páginas a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-pages)
+---
 
 ### [gatsby-plugin-scroll-reveal](https://www.gatsbyjs.com/plugins/gatsby-plugin-scroll-reveal/)
 

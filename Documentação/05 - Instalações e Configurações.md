@@ -38,13 +38,13 @@
 
 ### [PropTypes](https://www.npmjs.com/package/prop-types)
 
----
-
-### [gatsby-transformer-remark](https://www.gatsbyjs.com/docs/adding-markdown-pages/#install-transformer-plugin)
+### [gatsby-transformer-remark](https://www.gatsbyjs.com/plugins/gatsby-transformer-remark/?=transfor)
 
 ### [Gerar Slugs a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-slugs-for-pages)
 
 ### [Criando Páginas a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-pages)
+
+---
 
 ### [gatsby-plugin-manifest](https://www.gatsbyjs.com/tutorial/part-eight/#-using-gatsby-plugin-manifest)
 
