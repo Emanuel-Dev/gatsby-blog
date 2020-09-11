@@ -18,7 +18,7 @@
 
 ### [PropTypes](https://pt-br.reactjs.org/docs/typechecking-with-proptypes.html)
 
-### [Instruções de consulta ao GraphQL](https://www.gatsbyjs.com/docs/graphql-reference/)
+### [Consulta GraphQL - Manual de Referência](https://www.gatsbyjs.com/docs/graphql-reference/)
 
 ### [Source Plugins](https://www.gatsbyjs.com/tutorial/part-five/#source-plugins)
 

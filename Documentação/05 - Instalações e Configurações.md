@@ -40,9 +40,7 @@
 
 ### [gatsby-transformer-remark](https://www.gatsbyjs.com/plugins/gatsby-transformer-remark/?=transfor)
 
-### [Gerar Slugs a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-slugs-for-pages)
-
-### [Criando Páginas a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-pages)
+### [Gerar Slugs e Páginas a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-slugs-for-pages)
 
 ---
 
