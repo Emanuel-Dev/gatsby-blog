@@ -42,6 +42,8 @@
 
 ### [Gerar Slugs e Páginas a partir dos arquivos Markdown](https://www.gatsbyjs.com/tutorial/part-seven/#creating-slugs-for-pages)
 
+### [GitHub Pages](https://www.gatsbyjs.com/docs/how-gatsby-works-with-github-pages/#reach-skip-nav)
+
 ---
 
 ### [gatsby-plugin-manifest](https://www.gatsbyjs.com/tutorial/part-eight/#-using-gatsby-plugin-manifest)
