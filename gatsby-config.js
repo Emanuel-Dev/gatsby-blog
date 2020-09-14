@@ -5,6 +5,7 @@ module.exports = {
     description: `Um blog Gatsby construido seguindo o tutorial do curso \"Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS\"`,
     author: `Emanuel Olivio dos Santos`,
   },
+  pathPrefix: "/gatsby-blog",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
