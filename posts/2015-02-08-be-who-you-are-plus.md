@@ -1,6 +1,6 @@
 ---
 date: 2015-02-08 05:54:23
-title: Be who you are (Version 2)
+title: Be who you are (V2)
 description: Because those who mind don't matter, and those who matter don't mind
 category: dev
 background: "#61728f"

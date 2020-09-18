@@ -1,6 +1,6 @@
 ---
 date: 2014-01-31 05:54:23
-title: Waiting to die (Version 2)
+title: Waiting to die (V2)
 description: So say goodbye to love and hold your head up high
 category: svg
 background: "#7d669e"

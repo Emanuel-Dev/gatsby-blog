@@ -1,6 +1,6 @@
 ---
 date: 2015-02-10 05:54:23
-title: You only live once (Version 2)
+title: You only live once (V2)
 description: But if you do it right, once is enough
 category: dev
 background: "#61728f"

@@ -1,4 +1,5 @@
 import styled from "styled-components"
+import { Link } from "gatsby"
 
 export const PaginationWrapper = styled.section`
   align-items: center;
@@ -14,6 +15,12 @@ export const PaginationWrapper = styled.section`
     transition: color 0.5s;
   }
 
+  &:hover {
+    color: #1fa1f2;
+  }
+`
+
+export const LinkPagination = styled(Link)`
   &:hover {
     color: #1fa1f2;
   }

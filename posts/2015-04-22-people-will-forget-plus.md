@@ -1,6 +1,6 @@
 ---
 date: 2015-04-22 05:54:23
-title: People will forget what you said, people will forget what you did (Version 2)
+title: People will forget what you said, people will forget what you did (V2)
 description: But people will never forget how you made them feel.
 category: svg
 background: "#7d669e"

@@ -1,6 +1,6 @@
 ---
 date: 2016-01-10 05:54:23
-title: Imperfection is beauty, madness is genius (Version 2)
+title: Imperfection is beauty, madness is genius (V2)
 description: And it's better to be absolutely ridiculous than absolutely boring
 category: css
 background: "#24809e"

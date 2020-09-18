@@ -1,6 +1,6 @@
 ---
 date: 2018-02-13 05:54:23
-title: Hey Joe (Version 2)
+title: Hey Joe (V2)
 description: Where you goin' with that gun of yours?
 category: jekyll
 background: "#b31917"

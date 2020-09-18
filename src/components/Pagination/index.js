@@ -1,7 +1,6 @@
 import React from "react"
 import propTypes from "prop-types"
 import * as S from "./styled"
-import { Link } from "gatsby"
 
 const Pagination = ({
   isFirst,
@@ -13,11 +12,19 @@ const Pagination = ({
 }) => {
   return (
     <S.PaginationWrapper>
-      {!isFirst && <Link to={prevPage}>&#8592; página anterior</Link>}
+      {!isFirst && (
+        <S.LinkPagination to={prevPage}>
+          &#8592; página anterior
+        </S.LinkPagination>
+      )}
       <p>
         {currentPage} de {numPages}
       </p>
-      {!isLast && <Link to={nextPage}>próxima página &#8594;</Link>}
+      {!isLast && (
+        <S.LinkPagination to={nextPage}>
+          próxima página &#8594;
+        </S.LinkPagination>
+      )}
     </S.PaginationWrapper>
   )
 }
