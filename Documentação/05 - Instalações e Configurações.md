@@ -44,6 +44,8 @@
 
 ### [GitHub Pages](https://www.gatsbyjs.com/docs/how-gatsby-works-with-github-pages/#reach-skip-nav)
 
+### [Adicionando Paginação](https://www.gatsbyjs.com/docs/adding-pagination/#reach-skip-nav)
+
 ---
 
 ### [gatsby-plugin-manifest](https://www.gatsbyjs.com/tutorial/part-eight/#-using-gatsby-plugin-manifest)
