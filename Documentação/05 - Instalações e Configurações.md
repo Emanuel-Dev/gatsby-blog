@@ -52,6 +52,8 @@
 
 ### [gatsby-remark-lazy-load](https://www.gatsbyjs.com/plugins/gatsby-remark-lazy-load/?=gatsby-remark-image)
 
+### [gatsby-remark-prismjs](https://www.gatsbyjs.com/plugins/gatsby-remark-prismjs/?=gatsby-remark-pris)
+
 ---
 
 ### [gatsby-plugin-manifest](https://www.gatsbyjs.com/tutorial/part-eight/#-using-gatsby-plugin-manifest)
