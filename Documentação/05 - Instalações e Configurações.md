@@ -46,6 +46,12 @@
 
 ### [Adicionando Paginação](https://www.gatsbyjs.com/docs/adding-pagination/#reach-skip-nav)
 
+### [gatsby-remark-images](https://www.gatsbyjs.com/plugins/gatsby-remark-images/?=gatsby-remark-image)
+
+### [gatsby-remark-relative-images](https://www.gatsbyjs.com/plugins/gatsby-remark-relative-images/?=gatsby-remark-image)
+
+### [gatsby-remark-lazy-load](https://www.gatsbyjs.com/plugins/gatsby-remark-lazy-load/?=gatsby-remark-image)
+
 ---
 
 ### [gatsby-plugin-manifest](https://www.gatsbyjs.com/tutorial/part-eight/#-using-gatsby-plugin-manifest)
