@@ -4,6 +4,7 @@ import Layout from "../components/Layout"
 import SEO from "../components/seo"
 import * as S from "../components/Post/styled"
 import RecomendedPosts from "../components/RecomendedPosts"
+import Comments from "../components/Comments"
 
 export const query = graphql`
   query($slug: String!) {
@@ -14,6 +15,9 @@ export const query = graphql`
         title
         description
         date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
+      }
+      fields {
+        slug
       }
     }
   }
@@ -38,6 +42,7 @@ const BlogPost = ({ data, pageContext }) => {
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </S.MainContent>
       <RecomendedPosts next={next} previous={previous} />
+      <Comments url={post.fields.slug} title={post.frontmatter.title} />
     </Layout>
   )
 }

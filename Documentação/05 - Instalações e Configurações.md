@@ -54,6 +54,8 @@
 
 ### [gatsby-remark-prismjs](https://www.gatsbyjs.com/plugins/gatsby-remark-prismjs/?=gatsby-remark-pris)
 
+### [react-disqus-comments](https://github.com/basicsharp/react-disqus-comments)
+
 ---
 
 ### [gatsby-plugin-manifest](https://www.gatsbyjs.com/tutorial/part-eight/#-using-gatsby-plugin-manifest)
